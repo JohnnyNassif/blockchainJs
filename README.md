@@ -1,9 +1,6 @@
 ## Getting Started
 
-The first step in running this project is to run `npm install`.
-
-The rest of the steps can be found in the **[course](https://www.udemy.com/build-a-blockchain-in-javascript/?couponCode=GHDISCOUNT)**!
-<br/>
+run `npm install`.
 
 ## Content
 
