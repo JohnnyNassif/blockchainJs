@@ -1,11 +1,11 @@
 ## Getting Started
 
-The first step in running this project is to run `npm install`.
+Running this project using `npm install`.
 
 
 ## Content
 
-blockchain and decentralized blockchain network by using JavaScript.
+Blockchain and decentralized network using JavaScript.
 
 Features:
 
