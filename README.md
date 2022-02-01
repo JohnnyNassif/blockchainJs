@@ -9,7 +9,7 @@ blockchain and decentralized blockchain network by using JavaScript.
 
 Features:
 
-A proof of work algorithm to secure the network.
+A proof of work algorithm to secure the network.</ br>
 Hashing algorithms to secure the data within the blockchain.
 The ability to mine (create) new blocks that contain data.
 The ability to create transactions and store them in blocks.
